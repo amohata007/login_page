@@ -10,7 +10,7 @@ document.querySelector('.cont_form_sign_up').style.opacity = "0";
 setTimeout(function(){  document.querySelector('.cont_form_login').style.opacity = "1"; },400);  
   
 setTimeout(function(){    
-document.querySelector('.cont_form_sign_up').style.display = "none";
+document.querySelector('.cont_form_sign_up').style.display = "none";  
 },200);  
   }
 
