@@ -1,1 +1,1 @@
-Simple login page using JS.
+Simple login page using JS and html.
